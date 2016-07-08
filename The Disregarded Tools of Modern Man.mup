@@ -1,0 +1,202 @@
+{
+  "title": "The Disregarded Tools of Modern Man",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Culture ",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "takes long time to learn ",
+          "id": 5,
+          "attr": {
+            "style": {
+              "background": "#F4A460"
+            }
+          }
+        },
+        "2": {
+          "title": "No accpet make general scientific statements",
+          "id": 8,
+          "attr": {
+            "style": {
+              "background": "#F4A460"
+            }
+          }
+        },
+        "3": {
+          "title": "teaches us not intellectual courage,\nbut intellectual conformity.",
+          "id": 19,
+          "attr": {
+            "style": {
+              "background": "#F4A460"
+            }
+          }
+        },
+        "4": {
+          "title": "absolute freedom of the individual",
+          "id": 26,
+          "attr": {
+            "style": {
+              "background": "#F4A460"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ADFF2F"
+        }
+      }
+    },
+    "2": {
+      "title": "Society",
+      "id": 13,
+      "ideas": {
+        "1": {
+          "title": "tools to redesign its institutions",
+          "id": 17,
+          "attr": {
+            "style": {
+              "background": "#F4A460"
+            }
+          }
+        },
+        "2": {
+          "title": "intellectual freedom",
+          "id": 18,
+          "attr": {
+            "style": {
+              "background": "#F4A460"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ADFF2F"
+        }
+      }
+    },
+    "3": {
+      "title": "basic tools",
+      "id": 27,
+      "ideas": {
+        "1": {
+          "title": "computer",
+          "id": 28,
+          "attr": {
+            "style": {
+              "background": "#F4A460"
+            }
+          }
+        },
+        "2": {
+          "title": "teleprocessing",
+          "id": 31,
+          "attr": {
+            "style": {
+              "background": "#F4A460"
+            }
+          }
+        },
+        "3": {
+          "title": "techniques of the science",
+          "id": 33,
+          "attr": {
+            "style": {
+              "background": "#F4A460"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ADFF2F"
+        }
+      }
+    },
+    "-1": {
+      "title": "institutions",
+      "id": 9,
+      "ideas": {
+        "1": {
+          "title": "disobeying laws of effective organization",
+          "id": 11,
+          "attr": {
+            "style": {
+              "background": "#F4A460"
+            }
+          }
+        },
+        "2": {
+          "title": " disregard our tools",
+          "id": 12,
+          "attr": {
+            "style": {
+              "background": "#F4A460"
+            }
+          }
+        },
+        "3": {
+          "title": "They not admit  full solution would be ridiculous",
+          "id": 25,
+          "attr": {
+            "style": {
+              "background": "#F4A460"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ADFF2F"
+        }
+      }
+    },
+    "-2": {
+      "title": "Variety",
+      "id": 20,
+      "ideas": {
+        "1": {
+          "title": "Variety absorbs\nvariety",
+          "id": 21,
+          "attr": {
+            "style": {
+              "background": "#F4A460"
+            }
+          }
+        },
+        "2": {
+          "title": "system variety into subsystems",
+          "id": 22,
+          "attr": {
+            "style": {
+              "background": "#F4A460"
+            }
+          }
+        },
+        "3": {
+          "title": "variety must be attenuated",
+          "id": 23,
+          "attr": {
+            "style": {
+              "background": "#F4A460"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ADFF2F"
+        }
+      }
+    }
+  },
+  "attr": {
+    "style": {
+      "background": "#008000"
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "title": "Something Extraordinary Is Happening in the World",
+  "id": 1,
+  "formatVersion": 2,
+  "attr": {
+    "style": {
+      "background": "#DAA520"
+    }
+  },
+  "ideas": {
+    "1": {
+      "title": "Modelo de empleo",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Falta de propósitos",
+          "id": 3
+        },
+        "2": {
+          "title": "Disposición a arriesgar",
+          "id": 5
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "2": {
+      "title": "Aumento en la colaboración",
+      "id": 11,
+      "ideas": {
+        "1": {
+          "title": "No tiene sentido ir solo",
+          "id": 12
+        },
+        "2": {
+          "title": "Apunte a la colaboración",
+          "id": 13
+        }
+      }
+    },
+    "3": {
+      "title": "Caída del consumo exagerado",
+      "id": 19,
+      "ideas": {
+        "1": {
+          "title": "Hemos llegado a organizarnos ",
+          "id": 20
+        },
+        "2": {
+          "title": "Aumento de intercambios",
+          "id": 21
+        }
+      }
+    },
+    "4": {
+      "title": "El despertar de la espiritualidad.",
+      "id": 29,
+      "ideas": {
+        "1": {
+          "title": "Ahora es natural",
+          "id": 30
+        },
+        "2": {
+          "title": "Adaptación en los trabajos",
+          "id": 31
+        }
+      }
+    },
+    "-1": {
+      "title": "Iniciativa empresarial",
+      "id": 6,
+      "ideas": {
+        "1": {
+          "title": "De vuelta a los \ngarajes",
+          "id": 7
+        },
+        "2": {
+          "title": "Buscar\n financiamiento",
+          "id": 8
+        },
+        "3": {
+          "title": "Error en la búsqueda \nde dinero",
+          "id": 9,
+          "ideas": {}
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "-2": {
+      "title": "Que es internet",
+      "id": 14,
+      "ideas": {
+        "1": {
+          "title": "Las barreras caen ",
+          "id": 15
+        },
+        "2": {
+          "title": "Inicia la unión",
+          "id": 16
+        },
+        "3": {
+          "title": "Herramienta catalizadora",
+          "id": 17
+        },
+        "4": {
+          "title": "Control de las masas",
+          "id": 18
+        }
+      }
+    },
+    "-3": {
+      "title": "Alimentación saludable y orgánica ",
+      "id": 22,
+      "ideas": {
+        "1": {
+          "title": "Opciones ",
+          "id": 23,
+          "ideas": {}
+        },
+        "2": {
+          "title": "Pequeños agricultores visibles",
+          "id": 28
+        }
+      }
+    },
+    "-4": {
+      "title": "Tendencias no-escolarización.",
+      "id": 32,
+      "ideas": {
+        "1": {
+          "title": "Cuestionamiento  al modelo formal",
+          "id": 34
+        },
+        "2": {
+          "title": "Nuevas opciones no formales",
+          "id": 36
+        }
+      }
+    }
+  }
+}

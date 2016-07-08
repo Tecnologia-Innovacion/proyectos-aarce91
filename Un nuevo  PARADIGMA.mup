@@ -1,0 +1,411 @@
+{
+  "title": "Un nuevo \nPARADIGMA",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Intersección de \nmega tendendencias",
+      "id": 11,
+      "ideas": {
+        "1": {
+          "title": "Open Inn 2.0",
+          "id": 3,
+          "ideas": {
+            "2": {
+              "title": "Colaborativo",
+              "id": 17,
+              "ideas": {
+                "1": {
+                  "title": "Trabajo en equpo",
+                  "id": 23,
+                  "attr": {
+                    "style": {
+                      "background": "#ADFF2F"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
+            },
+            "3": {
+              "title": "La Inn cerrada \nNO va a desaparecer",
+              "id": 18,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
+            },
+            "4": {
+              "title": "No resistir cambio",
+              "id": 20,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#006400"
+        }
+      }
+    },
+    "2": {
+      "title": "Perspectiva de la industria",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "Del individualismos,  a ecosistemas",
+          "id": 57,
+          "attr": {
+            "style": {
+              "background": "#DAA520"
+            }
+          }
+        },
+        "2": {
+          "title": "Compartir el riesgo ",
+          "id": 58,
+          "attr": {
+            "style": {
+              "background": "#DAA520"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#B8860B"
+        }
+      }
+    },
+    "3": {
+      "title": "Perspectiva del ciudadano",
+      "id": 60,
+      "ideas": {
+        "1": {
+          "title": "Masivo",
+          "id": 61,
+          "ideas": {
+            "1": {
+              "title": "Colaboración",
+              "id": 64,
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#FF0000"
+                }
+              }
+            },
+            "2": {
+              "title": "Participación  ",
+              "id": 66,
+              "attr": {
+                "style": {
+                  "background": "#FF0000"
+                }
+              }
+            },
+            "3": {
+              "title": "Experiencias ",
+              "id": 67,
+              "attr": {
+                "style": {
+                  "background": "#FF0000"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#FF4500"
+            }
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          156,
+          84,
+          1
+        ],
+        "style": {
+          "background": "#8B0000"
+        }
+      }
+    },
+    "-1": {
+      "title": "Perspectiva\nAcadémica",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "Porter y Kramer",
+          "id": 26,
+          "ideas": {
+            "1": {
+              "title": "Compartir valor",
+              "id": 31,
+              "ideas": {
+                "1": {
+                  "title": "Económico ",
+                  "id": 50,
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "background": "#ffffff"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Social",
+                  "id": 52,
+                  "attr": {
+                    "position": [
+                      73,
+                      46,
+                      1
+                    ],
+                    "style": {
+                      "background": "#ffffff"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffff00"
+            }
+          }
+        },
+        "2": {
+          "title": "Schrage MIT",
+          "id": 30,
+          "attr": {
+            "style": {
+              "background": "#ffff00"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Invención + adopción\n=\nInnovación ",
+              "id": 56,
+              "attr": {
+                "style": {
+                  "background": "#ffff99"
+                }
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "-2": {
+      "title": "El rol del Estado, es crear el ambiente.",
+      "id": 59,
+      "ideas": {
+        "1": {
+          "title": "Perspectiva gubernamental",
+          "id": 6,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#800080"
+        }
+      }
+    },
+    "-3": {
+      "title": "En detalle",
+      "id": 73,
+      "ideas": {
+        "1": {
+          "title": "Comunicación ",
+          "id": 84,
+          "ideas": {
+            "1": {
+              "title": "Modelo colaborativo",
+              "id": 74,
+              "ideas": {
+                "1": {
+                  "title": "Networking",
+                  "id": 79,
+                  "attr": {
+                    "style": {
+                      "background": "#9400D3"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Sociedad",
+                  "id": 80,
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "background": "#9400D3"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "organizaciones ",
+                  "id": 82,
+                  "attr": {
+                    "style": {
+                      "background": "#9400D3"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#5F9EA0"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
+        },
+        "2": {
+          "title": "Cambios estructurales ",
+          "id": 75,
+          "ideas": {
+            "1": {
+              "title": "Gobierno + Academia + industria + Sociedad civil",
+              "id": 86,
+              "attr": {
+                "style": {
+                  "background": "#F0F8FF"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#483D8B"
+            }
+          }
+        },
+        "3": {
+          "title": "Semántica",
+          "id": 77,
+          "ideas": {
+            "1": {
+              "title": "Nuevo + Adopción + Valor",
+              "id": 88,
+              "attr": {
+                "style": {
+                  "background": "#6495ED"
+                }
+              }
+            },
+            "2": {
+              "title": "Idea",
+              "id": 89,
+              "ideas": {
+                "1": {
+                  "title": "Generación + desarrollo + Difusion",
+                  "id": 91,
+                  "attr": {
+                    "style": {
+                      "background": "#8A2BE2"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#6495ED"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#00BFFF"
+            }
+          }
+        },
+        "4": {
+          "title": "Combinación ",
+          "id": 94,
+          "ideas": {
+            "1": {
+              "title": "Soluciones emergente",
+              "id": 96,
+              "ideas": {
+                "1": {
+                  "title": "Más rápido, barato y adaptable",
+                  "id": 99,
+                  "attr": {
+                    "style": {
+                      "background": "#C71585"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#C71585"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#5F9EA0"
+            }
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          138,
+          181,
+          2
+        ],
+        "style": {
+          "background": "#00008B"
+        }
+      }
+    }
+  },
+  "links": [],
+  "attr": {
+    "style": {
+      "background": "#00ff00"
+    }
+  }
+}
